@@ -1,6 +1,6 @@
-# Eurorack CLI
+# Eurorack Generative
 
-A CLI to interface with my modular synth.
+A framework for generative music, built on TidalCycles, that interfaces with my eurorack modular synthesizer. 
 
 ## Ideas
  - Use pyo python library to create lfos
